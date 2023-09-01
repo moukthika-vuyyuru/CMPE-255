@@ -1,0 +1,6 @@
+amount,date,description,categories
+10.5,2023-08-29 11:53:59.921582,Lunch,['Food']
+25.0,2023-08-29 11:53:59.921588,Movie ticket,['Entertainment']
+50.0,2023-08-29 11:53:59.921589,Groceries,['Food']
+15.0,2023-08-29 11:53:59.921590,Coffee,"['Food', 'Beverages']"
+100.5,2023-08-29 00:00:00,Bed,['Home']

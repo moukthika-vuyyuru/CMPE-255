@@ -1,0 +1,31 @@
+You have been assigned the task of creating a simple Expense Tracker application to help users manage their spending. The application should allow users to record expenses, categorize them using a pie chart, and edit or delete recorded expenses. Your primary focus is on simplicity. Below are the project details and clarifications for specific areas.
+
+Project Details:
+
+Users will input expenses, including the amount, date, and description.
+Expenses will be categorized and visualized using a pie chart to show spending trends.
+Users can edit or delete recorded expenses.
+The application needs to handle a single user at a time.
+No notifications for approaching budget limits are required.
+Performance and speed requirements are not specified.
+The technology stack is open-ended, allowing the use of any technologies or frameworks.
+Accessibility features are not necessary.
+The app will be deployed locally, not online.
+Data backup and recovery features are not needed.
+
+User Authentication: None required.
+Data Visualization: Graphs will use a pie chart to display spending trends.
+Budget Monitoring: Notifications for budget limits are not necessary.
+Expense Editing: Users can edit or delete recorded expenses.
+Scale: The app will handle one user at a time.
+Performance: No specific speed requirements.
+Tech Stack: Any technologies or frameworks can be used.
+Accessibility: Accessibility features are not needed.
+Deployment: The app will be deployed locally.
+Data Backup: Data backup and recovery features are not needed.
+
+
+
+Unit Testing Strategy:
+
+In addition to project development, you are expected to create basic unit tests to ensure the functionality of critical components. Please describe your approach to writing unit tests for key features, such as expense recording, categorization, and editing. 
