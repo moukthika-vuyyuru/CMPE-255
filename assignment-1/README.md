@@ -15,7 +15,7 @@ In this task, I used the ChatGPT code interpreter to perform data science on the
 
 ### Medium Article
 
-I have published a Medium article detailing the entire process and findings of this data mining task. You can read the article here: [Link to Medium Article](https://medium.com/@moukthikareddy.vuyyuru/harnessing-gpt-4-for-netflix-userbase-analysis-a-prompt-driven-adventure-728c12b178b3)
+I have published a Medium article detailing the entire process and findings of this data mining task. You can read the article here: [Medium Article](https://medium.com/@moukthikareddy.vuyyuru/harnessing-gpt-4-for-netflix-userbase-analysis-a-prompt-driven-adventure-728c12b178b3)
 
 
 ## Task 2: Generating a Visual Studio Code Project with GPT-Engineer
@@ -33,7 +33,7 @@ To showcase the power of combining the ChatGPT plugin and Visual Studio Code, I 
 
 ### Screencast
 
-I have created a screencast demonstrating the process of using GPT-Engineer to generate the Visual Studio Code project for the Expense Tracker application. You can watch the screencast here: [Link to Screencast](https://drive.google.com/drive/folders/1dBJhnGH00UwtSoV_FRkBtY36MdLT8kkr)
+I have created a screencast demonstrating the process of using GPT-Engineer to generate the Visual Studio Code project for the Expense Tracker application. You can watch the screencast here: [Screencast](https://drive.google.com/drive/folders/1dBJhnGH00UwtSoV_FRkBtY36MdLT8kkr)
 
 ### GitHub Repository
 
