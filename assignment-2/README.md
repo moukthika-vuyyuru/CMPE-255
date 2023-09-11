@@ -63,7 +63,7 @@ Dataset: Healthcare Providers Data For Anomaly Detection
 
 Notebook: [Notebook](https://colab.research.google.com/drive/1Aj9Azk2ql7VQyBCu9EHBUGb7XVSFYwjR?usp=drive_link)
 
-Demo: [DEMO]()
+Demo: [DEMO](https://drive.google.com/file/d/1VuUQotsMIydANab9LQH-tu4h--cysuVI/view?usp=drive_link)
 
 ### Task_d_Association_Rule_Mining:
 Description: Using the Groceries dataset to conduct Market Basket Analysis. The goal is to uncover associations between items commonly purchased together, allowing retailers to understand buyer behavior, optimize product placements, and design more effective promotional strategies.
