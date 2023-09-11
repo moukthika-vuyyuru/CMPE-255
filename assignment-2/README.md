@@ -24,7 +24,9 @@ This repository contains the code and Colab notebooks for a low-code data mining
 ### Task_a_Binary_Classification : 
 Description: Utilizing various health metrics (e.g., age, blood pressure, cholesterol levels) to predict the likelihood of an individual having cardiovascular disease.
 Dataset: [Exploring Risk Factors for Cardiovascular Disease](https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas)
+
 Notebook: [Notebook](https://colab.research.google.com/drive/1mdMHdG-6jTkMAfLZWCPAiodJ-VUc9pCG?usp=drive_link)
+
 Demo: [DEMO](https://drive.google.com/file/d/1iZ40JHNcAcc0fxp3rJoLe4NAAzxuaCGt/view?usp=drive_link)
 
 ### Task_a_Multiclass_Classification :
