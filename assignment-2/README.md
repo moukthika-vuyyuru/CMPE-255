@@ -27,7 +27,7 @@ Dataset: [Exploring Risk Factors for Cardiovascular Disease](https://www.kaggle.
 
 Notebook: [Notebook](https://colab.research.google.com/drive/1mdMHdG-6jTkMAfLZWCPAiodJ-VUc9pCG?usp=drive_link)
 
-Demo: [DEMO](https://drive.google.com/file/d/1snLTg0pXJrRV9bJfvUpV-lZ2HpTfFlA6/view?usp=drive_link)
+Demo: [DEMO](https://drive.google.com/file/d/1iE6HgEKfIPN5uC0ypLEPYX3M0BLTEWuv/view?usp=drive_link)
 
 ### Task_a_Multiclass_Classification :
 Description: Classifying Amazon product reviews into 'Negative', 'Neutral', or 'Positive' categories.
