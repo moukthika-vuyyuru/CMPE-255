@@ -27,7 +27,7 @@ Dataset: [Exploring Risk Factors for Cardiovascular Disease](https://www.kaggle.
 
 Notebook: [Notebook](https://colab.research.google.com/drive/1mdMHdG-6jTkMAfLZWCPAiodJ-VUc9pCG?usp=drive_link)
 
-Demo: [DEMO](https://drive.google.com/file/d/1iZ40JHNcAcc0fxp3rJoLe4NAAzxuaCGt/view?usp=drive_link)
+Demo: [DEMO](https://drive.google.com/file/d/1snLTg0pXJrRV9bJfvUpV-lZ2HpTfFlA6/view?usp=drive_link)
 
 ### Task_a_Multiclass_Classification :
 Description: Classifying Amazon product reviews into 'Negative', 'Neutral', or 'Positive' categories.
@@ -63,7 +63,7 @@ Dataset: Healthcare Providers Data For Anomaly Detection
 
 Notebook: [Notebook](https://colab.research.google.com/drive/1Aj9Azk2ql7VQyBCu9EHBUGb7XVSFYwjR?usp=drive_link)
 
-Demo: [DEMO](https://drive.google.com/file/d/1KkbqGJ4W3nvLE2TeAAZ7O85M9UJVZMGf/view?usp=drive_link)
+Demo: [DEMO](https://drive.google.com/file/d/18avQ-dZffHwab2Iy7panqi4243Qym06r/view?usp=drive_link)
 
 ### Task_d_Association_Rule_Mining:
 Description: Using the Groceries dataset to conduct Market Basket Analysis. The goal is to uncover associations between items commonly purchased together, allowing retailers to understand buyer behavior, optimize product placements, and design more effective promotional strategies.
