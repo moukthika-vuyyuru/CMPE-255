@@ -42,7 +42,7 @@ Notebook: [Notebook](https://colab.research.google.com/drive/1GYSWBVc1IJOXjXh32O
 Demo: [DEMO](https://drive.google.com/file/d/1ZjVNn2GtfoYBDJ5QvdcSN00l65we5Bhq/view?usp=drive_link)
 
 Output: 
-<img src="../Images/Multi_Class_Feature_Imp_Plot.png" width="400" height="300">
+<img src="../Images/Multi_Class_Feature_Imp_Plot.png" height="300">
 
 ### Task_a_Regression :
 Description: Predicting song popularity based on various song attributes.
