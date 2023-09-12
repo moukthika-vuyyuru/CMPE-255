@@ -52,7 +52,7 @@ Notebook: [Notebook](https://colab.research.google.com/drive/1He-H0VaXwAVYIoqVbW
 
 Demo: [DEMO](https://drive.google.com/file/d/16mO914z5XgOxhbjS8Ne3AlK0UwJLj8Lp/view?usp=drive_link)
 
-Output: ![Feature Importance](./assignment-2/images/Regression_Plot.png)
+Output: ![Feature Importance](assignment-2/Images/Regression_Plot.png)
 
 ### Task_b_Clustering :
 Description: Grouping EastWestAirlines passengers into distinct clusters based on their mileage history and transaction types. The aim is to understand passenger behaviors and preferences, enabling the airline to craft targeted mileage offers for each segment, enhancing customer engagement and loyalty.
