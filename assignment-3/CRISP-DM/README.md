@@ -3,17 +3,16 @@
 This project adopts the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to uncover insights from the `amazon.csv` dataset.
 
 ### File Descriptions
+
 - **amazon.csv**: The raw dataset utilized in this project.
 
-- **CRISP_DM.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations.
+- **CRISP_DM.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations. [View on Google Colab](https://colab.research.google.com/drive/1YR5jQTFV0g7x3xhJ5KV8QKNCjyqQUzS4)
 
 - **CRISP-DM.tex**: LaTeX source of the research paper/report detailing the project.
 
 - **CRISP-DM.pdf**: Compiled PDF version of the LaTeX report.
 
 - **Medium Article**: [Decoding Amazon's Customer Voice: An In-depth Analysis](https://medium.com/@moukthikareddy.vuyyuru/decoding-amazons-customer-voice-an-in-depth-analysis-of-product-ratings-reviews-14cd133ff5b7)
-
-- **Colab Notebook**: [View on Google Colab](https://colab.research.google.com/drive/1YR5jQTFV0g7x3xhJ5KV8QKNCjyqQUzS4)
 
 ### Project Overview
 
@@ -41,7 +40,8 @@ In this CRISP-DM project, our primary objective was to derive actionable insight
 - **Efficient Use of AutoML**: The H2O platform was leveraged to handle modeling complexities efficiently, allowing for a more in-depth exploration of potential models and their performance metrics.
 
 
-### GIF Walkthrough
-Get a quick visual overview of the key sections and outputs in the Jupyter notebook:
+### Video Demo
+For a detailed walkthrough, watch the video demonstration covering the key sections and outputs in the Jupyter notebook:
 
-![GIF Walkthrough](https://drive.google.com/uc?export=view&id=1Vg9twah3YoBpVBZFb81bmbH8NPihjhBp)
+[Watch the Video Demo](https://drive.google.com/file/d/10VOPE2-ofIhlvOML9-MnoWvwOQhKrWNg/view?usp=drive_link)
+

@@ -3,11 +3,16 @@
 This project adopts the SEMMA (Sample, Explore, Modify, Model, Assess) methodology for a data-driven exploration and analysis.
 
 ### File Descriptions
-- **SEMMA.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations following the SEMMA methodology.
+
+- **SEMMA.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations following the SEMMA methodology. [View on Google Colab](https://colab.research.google.com/drive/1L-iWwqCv7Em4RG4ZQKJAHuqy_a6RD8zD#scrollTo=kmSY9isl9fKW)
+
 - **SEMMA.tex**: LaTeX source of the research paper/report detailing the project.
+
 - **SEMMA.pdf**: Compiled PDF version of the LaTeX report.
+
 - **Medium Article**: [Emotion Detection from Text: A SEMMA Methodology Approach](https://medium.com/@moukthikareddy.vuyyuru/title-emotion-detection-from-text-a-semma-methodology-approach-eddf2797a67a)
-- **Colab Notebook**: [View on Google Colab](https://colab.research.google.com/drive/1L-iWwqCv7Em4RG4ZQKJAHuqy_a6RD8zD#scrollTo=kmSY9isl9fKW)
+
+- **tweet_emotions.csv**: The raw dataset utilized in this project.
 
 ### Project Overview
 
@@ -35,7 +40,7 @@ In this project, we leveraged the SEMMA methodology to delve into emotion detect
   - XGBoost models: `XGBoost_grid_1_AutoML_1_20230922_172321_model_3`, `XGBoost_grid_1_AutoML_1_20230922_172321_model_1`, `XGBoost_grid_1_AutoML_1_20230922_172321_model_2`, and `XGBoost_2_AutoML_1_20230922_172321`
 
 
-### GIF Walkthrough
-Get a swift visual overview of the essential sections and outputs in the Jupyter notebook:
+### Video Demo
+For a detailed walkthrough, watch the video demonstration covering the key sections and outputs in the Jupyter notebook:
 
-![GIF Walkthrough](https://drive.google.com/uc?export=view&id=1kpj0eCwW_ksT4ox0LDHy76Tys8Wajyin)
+[Watch the Video Demo](https://drive.google.com/file/d/16ztJG_yFuMa4BosGdcFOAzWWsq4LRC94/view?usp=drive_link)

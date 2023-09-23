@@ -4,13 +4,16 @@ This project employs the KDD (Knowledge Discovery in Databases) methodology to e
 
 ### File Descriptions
 
-- **Enhanced_KDD.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations following the KDD methodology. [View on Google Colab](https://colab.research.google.com/drive/1jFiV6LR-GqQmP_FQ17XLjzY-IA6VxrF0).
+- **KDD.ipynb**: Comprehensive Jupyter notebook with analysis, visualizations, and detailed explanations following the KDD methodology. [View on Google Colab](https://colab.research.google.com/drive/1jFiV6LR-GqQmP_FQ17XLjzY-IA6VxrF0).
 
 - **KDD.tex**: LaTeX source of the research paper/report detailing the project.
 
 - **KDD.pdf**: Compiled PDF version of the LaTeX report.
 
 - **Medium Article**: [Segmenting Credit Card Users: The Power of Clustering](https://medium.com/@moukthikareddy.vuyyuru/segmenting-credit-card-users-the-power-of-clustering-a431336c71a0)
+
+- **CC GENERAL.csv**: The raw dataset utilized in this project.
+
 
 ### Project Overview
 
@@ -51,7 +54,7 @@ In this KDD project, the primary objective was to derive insights and possibly m
   - Explored DBSCAN as an alternative clustering technique, a density-based approach.
 
 
-### GIF Walkthrough
-Get a swift visual overview of the essential sections and outputs in the Jupyter notebook:
+### Video Demo
+For a detailed walkthrough, watch the video demonstration covering the key sections and outputs in the Jupyter notebook:
 
-![GIF Walkthrough](https://drive.google.com/uc?export=view&id=1jK0doyRKyD9d4MMWDXPJVRRnaraLGnlL)
+[Watch the Video Demo](https://drive.google.com/file/d/1WuMJ7mWC8uE8TGZlYq9FQCryvdfnTzYJ/view?usp=drive_link)
