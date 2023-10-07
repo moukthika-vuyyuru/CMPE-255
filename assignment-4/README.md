@@ -93,4 +93,4 @@ This project delves deep into the data processing capabilities of Apache Beam, t
 
 ## Notebooks:
 
-- [Apache Beam Comprehensive Data Processing Notebook](https://colab.research.google.com/drive/1BGeG3U0-2R3shsrc797YqEA2BH8BZIhy#scrollTo=X-KbMzI9p19x): A Jupyter notebook that contains all the code, explanations, and visual outputs of the Apache Beam processing pipeline.
+- [Apache Beam Comprehensive Data Processing Notebook](https://colab.research.google.com/drive/1BGeG3U0-2R3shsrc797YqEA2BH8BZIhy#scrollTo=X-KbMzI9p19x): A Colab notebook that contains all the code, explanations, and visual outputs of the Apache Beam processing pipeline.
