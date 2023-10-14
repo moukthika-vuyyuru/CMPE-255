@@ -1,4 +1,5 @@
-# COVID-19 and Weather Data Exploratory Data Analysis
+# Assignment -1 
+## COVID-19 and Weather Data Exploratory Data Analysis
 
 ## Description
 This project provides an in-depth Exploratory Data Analysis (EDA) on a combined dataset of COVID-19 statistics and corresponding weather information across various countries. The aim is to uncover patterns, correlations, and insights that might hint at how weather conditions could influence the spread of the virus. Using advanced visualization techniques, including D3.js and standard Python libraries, this project offers a comprehensive view of the interplay between the pandemic and meteorological factors.
@@ -40,8 +41,8 @@ Throughout the visualizations, a strong emphasis has been placed on user interac
 These interactive elements not only enhance the visual appeal of the analysis but also make the data exploration process more intuitive and insightful.
 
 
-
-# IPL 2023 Data: Automated Exploratory Data Analysis (Auto EDA)
+# Assignment - 2
+## IPL 2023 Data: Automated Exploratory Data Analysis (Auto EDA)
 
 ## Description
 This repository showcases an automated exploratory data analysis (Auto EDA) of the IPL 2023 datasets, highlighting detailed batting and bowling statistics for each match. Through this analysis, we aim to provide a swift and comprehensive overview of the datasets, uncovering patterns, distributions, and potential insights.
@@ -68,8 +69,8 @@ Detailed HTML reports generated from the Auto EDA tool can be accessed below:
 ## Notebook
 For a detailed walkthrough of the Auto EDA process, you can explore the [AUTO_EDA.ipynb](https://colab.research.google.com/drive/18AYyz1hERO3zhwAL6KoR2MFttZS2sNAf#scrollTo=6z1ocz2CjD5F) notebook.
 
-
-# Apache Beam Data Processing
+# Assignment - 3
+## Apache Beam Data Processing
 
 This project delves deep into the data processing capabilities of Apache Beam, taking the user on a journey from rudimentary data reading and transformations to mastery of advanced features like windowing, triggers, and BeamML for machine learning tasks.
 
