@@ -57,5 +57,8 @@ Each section of the project corresponds to a different dataset and involves a un
 
 For a comprehensive narrative detailing the journey, strategies, methodologies, and valuable insights derived from this multi-faceted project, delve into our Medium article:
 
-<a target="_blank" href="https://medium.com/@moukthikareddy.vuyyuru/navigating-complex-data-terrains-an-in-depth-analysis-across-diverse-datasets-with-gpt-4-a310a3695eeb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@username/index" alt="Medium Article"></a>
+<a target="_blank" href="https://medium.com/@moukthikareddy.vuyyuru/navigating-complex-data-terrains-an-in-depth-analysis-across-diverse-datasets-with-gpt-4-a310a3695eeb">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@moukthikareddy.vuyyuru/index" alt="Medium Article">
+</a>
+
 
