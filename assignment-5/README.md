@@ -8,6 +8,12 @@ Data's inherent diversity brings with it a host of complexities. This project na
 
 The project leverages GPT-4's advanced capabilities to streamline the coding process, highlighting the model's efficiency and precision in speeding up development and analysis phases. The process involves problem identification, data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation stages, culminating in actionable insights.
 
+## In-Depth Medium Article
+
+For a comprehensive narrative detailing the journey, strategies, methodologies, and valuable insights derived from this multi-faceted project, delve into our Medium article:
+
+<a target="_blank" href="https://medium.com/@moukthikareddy.vuyyuru/navigating-complex-data-terrains-an-in-depth-analysis-across-diverse-datasets-with-gpt-4-a310a3695eeb"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@username/index" alt="Medium Article"></a>
+
 ## Detailed Analysis and Model Implementation
 
 Each section of the project corresponds to a different dataset and involves a unique problem statement, a tailored solution through strategic data manipulations and modeling, and outcomes that contribute to the field's broader knowledge. Below is a breakdown of the datasets used, accompanied by direct links to the Colab Notebooks and the visual representations of our findings:
@@ -51,14 +57,3 @@ Each section of the project corresponds to a different dataset and involves a un
 - **Solution & Modeling Approach:** Applied graph analysis techniques and machine learning models to tabular and network data.
 - **Results:** Effectively pinpointed abnormal behavior patterns, significantly enhancing cybersecurity measures.
 - **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/173DRxWx2A0uKsAbHU5cbBvSyBCtQ2igL)
-
-
-## In-Depth Medium Article
-
-For a comprehensive narrative detailing the journey, strategies, methodologies, and valuable insights derived from this multi-faceted project, delve into our Medium article:
-
-<a target="_blank" href="https://medium.com/@moukthikareddy.vuyyuru/navigating-complex-data-terrains-an-in-depth-analysis-across-diverse-datasets-with-gpt-4-a310a3695eeb">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@moukthikareddy.vuyyuru/index" alt="Medium Article">
-</a>
-
-
