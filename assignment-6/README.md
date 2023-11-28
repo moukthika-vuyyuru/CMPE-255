@@ -86,18 +86,30 @@
 - **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DeF2TWz5De_iS2mKatKOW2Jch-c-S5Im#scrollTo=pfa7I3jlkvul)
 
 
+### Image Clustering with ImageBind LLM Embeddings
 
-### Clustering of Images Using ImageBind LLM Embeddings
-
-- **Objective:** Demonstrate the clustering of a diverse set of images (dogs, cats, family, alone, food) using advanced ImageBind LLM embeddings.
-- **Dataset Description:** The dataset comprises 80 photos across five categories: dogs (10), cats (10), family (20), alone (20), and food (20). The images are not labeled, but they exhibit clear categorical distinctions.
-  [Kaggle](https://www.kaggle.com/datasets/heavensky/image-dataset-for-unsupervised-clustering#:~:text=URL%3A%20https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fheavensky%2Fimage)
+- **Objective:** Cluster a diverse set of images (dogs, cats, family, alone, food) using ImageBind LLM embeddings.
+- **Dataset Description:** The dataset includes 80 photos categorized into dogs, cats, family, alone, and food. Each category contains a specific number of images.
+[Kaggle](https://www.kaggle.com/datasets/heavensky/image-dataset-for-unsupervised-clustering#:~:text=URL%3A%20https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fheavensky%2Fimage)
 - **Methodology:**
-  - Image Preprocessing: Converted images to a consistent size and RGB format.
-  - Embedding Generation: Utilized ImageBind LLM embeddings to transform images into high-dimensional vectors.
-  - Clustering: Applied K-Means clustering on the generated embeddings.
+  - Image Preprocessing: Converted images to a format suitable for the ImageBind model.
+  - Embedding Generation: Utilized ImageBind LLM embeddings to transform images into feature vectors.
+  - Clustering: Applied K-Means clustering to the embeddings.
+  - Visualization: Used t-SNE for reducing dimensionality and visualizing the image clusters.
 - **Results:** 
-  - Successfully clustered images into distinct groups, reflecting their categorical similarities.
-- **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LOUuFf_ATjn4gJYyKM5Lis2mSBB5m_Mn#scrollTo=p5OpdgmyvIc1)
+  - The images were successfully clustered into groups, with visualization providing insights into the clustering.
+- **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LOUuFf_ATjn4gJYyKM5Lis2mSBB5m_Mn?usp=sharing)
 
 
+### Audio Clustering with ImageBind LLM Embeddings
+
+- **Objective:** Cluster audio files from various genres using ImageBind LLM embeddings.
+- **Dataset Description:** The dataset consists of audio files representing different music genres, processed to extract meaningful features for clustering. [GTZAN Music Genre Classification Dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification).
+- **Methodology:**
+  - Audio Preprocessing: Transformed audio files into spectrograms suitable for the ImageBind model.
+  - Embedding Generation: Leveraged ImageBind LLMs to convert audio data into embeddings.
+  - Clustering: Employed K-Means clustering to group the audio embeddings.
+  - Evaluation: Assessed the quality of clustering using silhouette scores (optional).
+- **Results:** 
+  - Achieved effective clustering of audio files, potentially revealing intrinsic patterns related to music genres.
+- **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PcQL97CQiAL0rjB-jXg6Fx4wclMTKzFS?usp=sharing)
