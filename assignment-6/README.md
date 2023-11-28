@@ -22,6 +22,7 @@
 
 ### Gaussian Mixture Models Clustering Analysis
 - **Objective:** Apply GMM clustering to understand and segment our dataset, potentially for enhancing customer targeting, product recommendations, or other strategic initiatives.
+- **Dataset:** [Kaggle](https://www.kaggle.com/datasets/nagsdata/tps-july-22-bgmm-7-clusters-100-seed-predictions)
 - **Methodology:**
   - Data Preprocessing: Standard scaling applied to normalize the dataset.
   - Optional PCA: Applied for dimensionality reduction to simplify the data structure.
@@ -46,6 +47,7 @@
 ### Clustering of NYC Taxi Passenger Time Series Data
 - **Objective:** Identify patterns in NYC taxi passenger counts using time series clustering techniques.
 - **Dataset Description:** Aggregated data on the number of NYC taxi passengers in 30-minute intervals, with anomalies during events like the NYC marathon, holidays, and a snowstorm.
+  [Kaggle](https://www.kaggle.com/datasets/julienjta/nyc-taxi-traffic)
 - **Methodology:**
   - Data Preprocessing: Converted timestamps to datetime format and set as the index. Dropped unnecessary columns.
   - Feature Extraction: Calculated rolling mean and standard deviation; extracted time-based features such as hour of the day and day of the week.
