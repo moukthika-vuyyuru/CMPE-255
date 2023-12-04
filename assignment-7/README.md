@@ -11,3 +11,10 @@
 - **Approach:** Includes clustering and feature extraction for classification.
 - **Colab Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVQI5rSh_vMDWL8XoZmuzoBnUg2HmhS8#scrollTo=EPvdt71nz6Ts)
 
+### Diamonds Dataset Dimensionality Reduction in Databricks
+
+- **Problem Statement:** This project aims to demonstrate the process of dimensionality reduction using PCA on the diamonds dataset within the Databricks platform.
+- **Problem Statement:** The dataset used is the "diamonds" dataset, which includes various features of diamonds such as carat, cut, color, clarity, and price.
+- **Approach:** The project involves preprocessing the dataset, applying PCA for dimensionality reduction, and visualizing the results to understand the variance and patterns in the data.
+[Open in Databricks](#https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5234187763826241/3953520922208107/7282593053296550/latest.html)
+
