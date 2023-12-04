@@ -16,5 +16,6 @@
 - **Problem Statement:** This project aims to demonstrate the process of dimensionality reduction using PCA on the diamonds dataset within the Databricks platform.
 - **Problem Statement:** The dataset used is the "diamonds" dataset, which includes various features of diamonds such as carat, cut, color, clarity, and price.
 - **Approach:** The project involves preprocessing the dataset, applying PCA for dimensionality reduction, and visualizing the results to understand the variance and patterns in the data.
-[Open in Databricks](#https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5234187763826241/3953520922208107/7282593053296550/latest.html)
+- **Colab Notebook:**
+### [Open in Databricks](#https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5234187763826241/3953520922208107/7282593053296550/latest.html)
 
